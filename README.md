@@ -7,8 +7,7 @@
 <p>
   <a href="https://linkedin.com/in/zainulabideen041"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:zainulabideen4578@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/myntrixers"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://youtube.com/@myntrixers"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://x.com/m_zainrizvi"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=zainulabideen041&style=flat-square&color=00D9FF&label=Profile+Views" />
 </p>
 
