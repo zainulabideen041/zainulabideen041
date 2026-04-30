@@ -6,6 +6,7 @@
 
 <p>
   <a href="https://linkedin.com/in/zainulabideen041"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://zainulabideen-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=react&logoColor=white" /></a>
   <a href="mailto:zainulabideen4578@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/m_zainrizvi"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=zainulabideen041&style=flat-square&color=00D9FF&label=Profile+Views" />
@@ -142,6 +143,7 @@ const zain = {
 ## Currently
 
 - 🚀 **Building** AI-native products at Myntrix — from architecture to deployment.
+- 🌐 **Showcasing** my latest full-stack & AI work on my [Interactive Intelligent Portfolio](https://zainulabideen-portfolio.netlify.app).
 - 🧪 **Experimenting** with multi-agent orchestration and retrieval strategies for production RAG.
 - 📚 **Reading** papers on agentic systems, evals, and inference-time optimization.
 - 🤝 **Open to** collaborations on ambitious AI + Full Stack products.
