@@ -143,7 +143,7 @@ const zain = {
 ## Currently
 
 - 🚀 **Building** AI-native products at Myntrix — from architecture to deployment.
-- 🌐 **Showcasing** my latest full-stack & AI work on my [Interactive Intelligent Portfolio](https://zainulabideen-portfolio.netlify.app).
+- 🌐 **Showcasing** my latest full-stack & AI work on my Portfolio: [Zain Ul Abideen Rizvi](https://zainulabideen-portfolio.netlify.app).
 - 🧪 **Experimenting** with multi-agent orchestration and retrieval strategies for production RAG.
 - 📚 **Reading** papers on agentic systems, evals, and inference-time optimization.
 - 🤝 **Open to** collaborations on ambitious AI + Full Stack products.
